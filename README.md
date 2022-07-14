@@ -1,4 +1,8 @@
 # chaos-simulator
-chaos simulation tests
+serials chaos simulation tests
 
->> 一系列的测试，来研究或者观测混沌现象 - 使用web技术实现
+>> what for.
+
+>> Not only chaos, but a way to simulate the nature sync and chaos behavior.
+
+>> Hope it will lead me find the pattern how the tornado or earthquake born then control or simulate it. 
